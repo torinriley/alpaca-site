@@ -1,0 +1,17 @@
+{
+  "name": "alpaca-site",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/svelte": "^9.1.6",
+    "astro": "^7.4.12",
+    "svelte": "^5.57.3",
+    "typescript": "^6.0.3"
+  }
+}
